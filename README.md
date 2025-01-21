@@ -24,6 +24,17 @@ After clicking on the green arrow, the user will be prompted to begin the progra
 
 <img width="1322" alt="Screenshot 2025-01-20 at 6 08 04 PM" src="https://github.com/user-attachments/assets/20163805-d926-441c-b244-e03ad8158ba6" />
 
+---
+
+## Demo
+
+This application will begin by asking its user for the total sale, tip and final (tip + sale) amount for a check. Once the user has completed each field, the program will automatically tally the check number, sale amount, and tips pooled so far for that shift. Once it completes those calculations, it will ask the user if they would like to continue tallying more checks. If they type "y", that will automatically continue the program. 
+
+<img width="1311" alt="Screenshot 2025-01-20 at 6 15 14 PM" src="https://github.com/user-attachments/assets/511032f5-66e6-497f-9ca6-08ce99f91b14" />
+
+The program will continue tallying each check, until the user types "n". Once they type "n", the program will automatically terminate and display the tip allocation for that shift. 
+
+<img width="1286" alt="Screenshot 2025-01-20 at 6 21 54 PM" src="https://github.com/user-attachments/assets/cb2e0c98-2ee0-41aa-a7a6-20c5aa14f27b" />
 
 
 ---
